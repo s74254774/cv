@@ -1,0 +1,9 @@
+img{
+  border-radius: 50%;
+  width: 150px;
+  max-height: 150px;
+  height: 100%
+}
+td{
+  padding: 0 20px 0 20px;
+}
